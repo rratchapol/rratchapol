@@ -6,7 +6,7 @@ WEB DEV
 
 * 🌍  I'm based in THAILAND
 
-### Skills
+# Skills
 
 
 <p align="left">
