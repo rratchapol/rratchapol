@@ -50,8 +50,7 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rratchapol&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
 
 
 <p align="center">
