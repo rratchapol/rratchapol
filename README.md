@@ -45,7 +45,7 @@
 <p align="center">
   <img src="https://bad-apple-github-readme.vercel.app/api?username=rratchapol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub stats" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=rratchapol&count_private=true&theme=blue-green&title_color=00b3ff" alt="Current streak" />
+<!--   <img src="https://streak-stats.demolab.com/?user=rratchapol&count_private=true&theme=blue-green&title_color=00b3ff" alt="Current streak" /> -->
   <br>
   <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=rratchapol&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
 </p>
