@@ -43,7 +43,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-  <img src="https://bad-apple-github-readme.vercel.app/api?username=rratchapol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub stats" />
+  <!-- <img src="https://bad-apple-github-readme.vercel.app/api?username=rratchapol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub stats" /> -->
   <br>
 <!--   <img src="https://streak-stats.demolab.com/?user=rratchapol&count_private=true&theme=blue-green&title_color=00b3ff" alt="Current streak" /> -->
   <br>
