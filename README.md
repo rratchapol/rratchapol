@@ -1,5 +1,5 @@
 
-## Hello World! I'm Tao 👋🏼:
+## Hello World! I'm Tao. 👋🏼:
 
 🧑🏼‍🎓 Graduated in Computer Engineering from King Mongkut's Institute of Technology Ladkrabang (KMITL)  
 💻 Fullstack Web Developer — experienced in both frontend & backend  
