@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:0057ff&height=210&section=header&text=Hi%20there!%20I'm%20Tao%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
