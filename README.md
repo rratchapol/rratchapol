@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Fullstack Web Developer • Frontend & Backend 
+### Fullstack Web Developer • Frontend & Backend
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B3FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+apps;React+%2F+Next.js+%2F+Angular;Node.js+%2F+Laravel;Always+learning+new+things" alt="Typing SVG" />
