@@ -1,16 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B3FF,50:0066FF,100:4F46E5&height=230&section=header&text=Hi%20there!%20I'm%20Tao%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00B3FF,50:0066FF,100:4F46E5&height=230&section=header&text=Hi%20there!%20I'm%20Tao%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+  />
 </p>
 
 <div align="center">
 
 # Tao — Fullstack Web Developer
 
-### Building clean, scalable & user-friendly web applications.
+### Frontend • Backend • System Design • Developer Tools
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00B3FF&center=true&vCenter=true&width=700&lines=Fullstack+Web+Developer;React+%2F+Next.js+%2F+Angular;Go+%2F+Node.js+%2F+Laravel;Building+scalable+web+applications;Always+learning+%26+building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00B3FF&center=true&vCenter=true&width=720&lines=Building+clean+%26+scalable+web+applications;React+%2F+Next.js+%2F+Angular;Go+%2F+Node.js+%2F+Laravel;Frontend+%2B+Backend+%2B+Database;Always+learning+%26+building"
     alt="Typing SVG"
   />
 </a>
@@ -18,7 +23,10 @@
 <br/><br/>
 
 <a href="https://komarev.com/ghpvc/?username=rratchapol&label=Profile%20Views&color=0066ff&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=rratchapol&label=Profile%20Views&color=0066ff&style=for-the-badge" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=rratchapol&label=Profile%20Views&color=0066ff&style=for-the-badge"
+    alt="Profile Views"
+  />
 </a>
 
 </div>
@@ -30,27 +38,50 @@
 <table>
   <tr>
     <td>🎓</td>
-    <td><b>Computer Engineering</b> — KMITL</td>
+    <td>
+      <b>Computer Engineering</b> — KMITL
+    </td>
   </tr>
+
   <tr>
     <td>💼</td>
-    <td><b>Fullstack Web Developer</b> — Frontend & Backend</td>
+    <td>
+      <b>Fullstack Web Developer</b> — Frontend & Backend
+    </td>
   </tr>
+
   <tr>
     <td>🚀</td>
-    <td>Building web applications since <b>2024</b></td>
+    <td>
+      Building web applications since <b>2024</b>
+    </td>
   </tr>
+
   <tr>
-    <td>⚡</td>
-    <td>Interested in scalable systems, APIs & modern web technologies</td>
+    <td>⚙️</td>
+    <td>
+      Interested in APIs, databases, system architecture & scalable applications
+    </td>
   </tr>
+
+  <tr>
+    <td>🤖</td>
+    <td>
+      Exploring AI tools, MCP, automation & developer productivity
+    </td>
+  </tr>
+
   <tr>
     <td>🌱</td>
-    <td>Continuously learning and experimenting with new technologies</td>
+    <td>
+      Always learning, experimenting and building new things
+    </td>
   </tr>
 </table>
 
-> I enjoy turning ideas into practical products — from frontend interfaces to backend APIs and system architecture.
+<br/>
+
+> I enjoy turning ideas into practical products — from user interfaces and APIs to databases and system architecture.
 
 ---
 
@@ -86,13 +117,21 @@
 
 <br/><br/>
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Infrastructure
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+
+<br/><br/>
+
+### 🤖 AI & Developer Tools
+
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=probot&logoColor=fff" />
+<img src="https://img.shields.io/badge/AI%20Tools-6366F1?style=for-the-badge&logo=openai&logoColor=fff" />
+<img src="https://img.shields.io/badge/Automation-0EA5E9?style=for-the-badge&logo=workflow&logoColor=fff" />
 
 </div>
 
@@ -106,27 +145,26 @@
 
 ### 🌐 Web Applications
 
-Building modern web applications with a focus on:
-
-* Responsive UI
-* Component architecture
-* Performance
-* Accessibility
-* User experience
+- Responsive interfaces
+- Component architecture
+- Modern frontend frameworks
+- Performance optimization
+- API integration
+- User experience
 
     </td>
+
     <td width="50%">
 
 ### 🔧 Backend Systems
 
-Designing backend systems with:
-
-* REST APIs
-* Authentication
-* Database architecture
-* Transactions
-* Background jobs
-* Scalable services
+- REST APIs
+- Authentication
+- Database architecture
+- Transactions
+- Validation
+- Background jobs
+- Concurrency
 
     </td>
   </tr>
@@ -136,30 +174,27 @@ Designing backend systems with:
 
 ### 🧩 Fullstack Systems
 
-Connecting frontend and backend into complete products:
-
-* API integration
-* State management
-* Data validation
-* Error handling
-* Deployment
+- Frontend + Backend
+- API design
+- State management
+- Data modeling
+- Error handling
+- Deployment
 
     </td>
+
     <td width="50%">
 
-### 🤖 Developer Tools & Automation
+### 🤖 Developer Tools
 
-Exploring:
-
-* MCP
-* AI developer tools
-* Workflow automation
-* Desktop applications
-* Developer productivity
+- MCP
+- AI-assisted development
+- Workflow automation
+- Desktop applications
+- Developer productivity
 
     </td>
   </tr>
-
 </table>
 
 ---
@@ -168,16 +203,70 @@ Exploring:
 
 <div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+
+### 🐾 Pet Community
+
+A pet community platform focused on pets, adoption, rescue and community interaction.
+
+<br/>
+
 <a href="https://github.com/rratchapol">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rratchapol&repo=PetWeb&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Pet Community"
+    src="https://img.shields.io/badge/View%20Project-0066FF?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Project"
   />
 </a>
 
+    </td>
+
+    <td align="center" width="33%">
+
+### 🖥️ Desktop Wrapper
+
+Exploring desktop applications that turn web applications into native-like desktop experiences.
+
+<br/>
+
+<a href="https://github.com/rratchapol">
+  <img
+    src="https://img.shields.io/badge/View%20Projects-0066FF?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Projects"
+  />
+</a>
+
+    </td>
+
+    <td align="center" width="33%">
+
+### 🤖 AI Developer Tools
+
+Building experiments around MCP, AI-assisted development and automation workflows.
+
+<br/>
+
+<a href="https://github.com/rratchapol">
+  <img
+    src="https://img.shields.io/badge/Explore-0066FF?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Projects"
+  />
+</a>
+
+    </td>
+  </tr>
+</table>
+
 </div>
 
-> 🚧 More projects and experiments are continuously being added.
+<br/>
+
+<div align="center">
+
+🚧 More projects and experiments are continuously being added.
+
+</div>
 
 ---
 
@@ -185,25 +274,31 @@ Exploring:
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=rratchapol&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12"
-alt="GitHub Stats"
-height="170"
-/>
+<a href="https://github.com/rratchapol">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rratchapol&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true"
+    alt="GitHub Stats"
+    height="170"
+  />
+</a>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratchapol&layout=compact&count_private=true&theme=tokyonight&hide_border=true&border_radius=12"
-alt="Top Languages"
-height="170"
-/>
+<a href="https://github.com/rratchapol">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratchapol&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"
+    alt="Top Languages"
+    height="170"
+  />
+</a>
 
 <br/><br/>
 
-<img
-src="https://streak-stats.demolab.com/?user=rratchapol&theme=tokyonight&hide_border=true&border_radius=12"
-alt="GitHub Streak"
-height="180"
-/>
+<a href="https://github.com/rratchapol">
+  <img
+    src="https://streak-stats.demolab.com/?user=rratchapol&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="GitHub Streak"
+    height="180"
+  />
+</a>
 
 </div>
 
@@ -218,15 +313,33 @@ height="180"
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"
   />
+
   <img
-    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 </picture>
+
+</div>
+
+---
+
+## 🧠 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Tools-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Desktop%20Apps-334155?style=flat-square" />
 
 </div>
 
@@ -237,43 +350,46 @@ height="180"
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ratchapol-rujiwach" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://www.facebook.com/ratchapol.rujiwach.9" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
 </a>
 
 <a href="https://www.instagram.com/tttaaooo" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 
 <a href="https://www.youtube.com/@ratchapolrujiwach4801" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
 </a>
 
 </div>
 
 ---
 
-## 💡 Currently Exploring
-
 <div align="center">
 
-`Go` · `PostgreSQL` · `System Design` · `MCP` · `AI Tools` · `Docker` · `Desktop Apps`
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting! 👋
-
-If you find something interesting here, feel free to explore my repositories.
+### 👋 Thanks for visiting my profile!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:00B3FF,100:4F46E5&height=130&section=footer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:0066FF,100:00B3FF&height=130&section=footer"
+  width="100%"
+/>
 
 </div>
