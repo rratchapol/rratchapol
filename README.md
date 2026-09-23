@@ -9,7 +9,7 @@
 
 # Tao — Fullstack Web Developer
 
-### Frontend • Backend • System Design • Developer Tools.
+### Frontend • Backend • System Design • Developer Tools .
 
 <br/>
 
