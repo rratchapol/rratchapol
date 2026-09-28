@@ -39,7 +39,7 @@
   <tr>
     <td>🎓</td>
     <td>
-      <b>Computer Engineering</b> — KMITL
+      <b>Computer Engineering</b> — KMITL.
     </td>
   </tr>
 
