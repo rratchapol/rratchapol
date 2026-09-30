@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Tao — Fullstack Web Developer
+# Tao — Fullstack Web Developer.
 
 ### Frontend • Backend • System Design • Developer Tools .
 
