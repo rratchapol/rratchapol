@@ -75,7 +75,7 @@
 | Project | Focus |
 | --- | --- |
 | 🐾 **Pet Community** | A platform for pets, adoption, rescue, and community interaction |
-| 🖥️ **Desktop App Experiments** | Bringing web applications into desktop workflows |
+| 📦 **npm Libraries** | Libraries I publish on npm · [View packages](https://www.npmjs.com/~ratchapol) |
 | 🤖 **AI Developer Tools** | MCP and workflow automation experiments |
 
 <p align="center">
