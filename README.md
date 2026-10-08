@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00B3FF,50:0066FF,100:4F46E5&amp;height=215&amp;section=header&amp;text=Hi%20there%21%20I%27m%20Tao&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=37" width="100%" alt="Hi there! I'm Tao" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00B3FF,50:0066FF,100:4F46E5&amp;height=215&amp;section=header&amp;text=Hi%20there%21%20I%27m%20Tao&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=37" width="100%" alt="Hi there! I'm Tao." />
 </p>
 
 <h1 align="center">Tao · Full-stack Web Developer.</h1>
