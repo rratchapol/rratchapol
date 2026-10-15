@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/rratchapol?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-0066FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore projects" /></a>
   <a href="https://www.linkedin.com/in/ratchapol-rujiwach"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
-  ![Profile views](https://komarev.com/ghpvc/?username=rratchapol&label=Profile%20views&color=0066FF&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=rratchapol&label=Profile%20views&color=0066FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
