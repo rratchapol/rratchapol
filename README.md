@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About me
 
-> I enjoy turning ideas into practical products, from interfaces and APIs to databases and deployment
+> I enjoy turning ideas into practical products, from interfaces and APIs to databases and deployment.
 
 | | |
 | --- | --- |
