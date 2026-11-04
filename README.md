@@ -84,10 +84,10 @@
 
 ## 📊 GitHub activity
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/rratchapol"><img src="https://github-readme-stats.vercel.app/api?username=rratchapol&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" height="165" alt="GitHub statistics" /></a>
   <a href="https://github.com/rratchapol"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratchapol&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="165" alt="Most used languages" /></a>
-</p>
+</p> -->
 
 ## 🐍 Contribution snake
 
