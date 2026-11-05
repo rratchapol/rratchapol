@@ -82,14 +82,14 @@
   <a href="https://github.com/rratchapol?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-0066FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse all repositories" /></a>
 </p>
 
-## 📊 GitHub activity
+<!--## 📊 GitHub activity -->
 
 <!-- <p align="center">
   <a href="https://github.com/rratchapol"><img src="https://github-readme-stats.vercel.app/api?username=rratchapol&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" height="165" alt="GitHub statistics" /></a>
   <a href="https://github.com/rratchapol"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rratchapol&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="165" alt="Most used languages" /></a>
 </p> -->
 
-## 🐍 Contribution snake
+<!--## 🐍 Contribution snake -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rratchapol/rratchapol/output/github-snake-dark.svg" />
